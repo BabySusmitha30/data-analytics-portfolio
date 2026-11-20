@@ -1,63 +1,47 @@
-# 📊 Global Superstore | Sales & Profitability Analysis
+# Hi, I'm Susmitha! 👋
 
-🚀 *An Excel-based Data Analytics Project*
+### Aspiring Data Analyst | MBA – Marketing & Finance
 
-## 🎯 Project Overview
-An interactive retail sales and profitability analysis using Microsoft Excel to explore business performance, identify trends and uncover actionable insights.
+Welcome to my Data Analytics Portfolio!
 
-## 🗂️ Dataset at a Glance
-- 📌 *Records:* 51,290
-- 📌 *Columns:* 22
-- 📌 *Period:* 2011–2014
-- 📌 *Data:* Orders, customers, products, sales, discounts and profits
+I'm an MBA graduate specializing in Marketing and Finance, interested in using data to uncover insights, solve business problems, and support data-driven decision-making.
 
-## 🛠️ Tools & Techniques
-- Microsoft Excel
-- Data Cleaning & Formatting
-- Excel Tables
-- PivotTables & Data Model
-- Distinct Count Calculations
-- Interactive Slicers
-- Charts & Dashboard Design
+I'm currently strengthening my analytical skills through practical projects and ongoing Data Analytics training.
 
-## 📈 Key Performance Indicators
+## 👩‍💻 About Me
 
-| Metric | Result |
-|---|---:|
-| 💰 Total Sales | 1,2642,501.91 |
-| 📊 Total Profit | 14,67,457.29 |
-| 🛒 Total Orders | 25,035 |
-| 📦 Quantity Sold | 1,78,312 |
-| 🏷️ Average Discount | 14.29% |
-| 📈 Profit Margin | 11.61% |
+- 🎓 MBA Graduate – Marketing & Finance
+- 📊 Interested in Data Analytics and Business Analytics
+- 💡 Passionate about turning data into meaningful business insights
+- 📚 Currently learning Advanced Excel and Data Analytics
 
-## 💡 Key Business Insights
-1. 🌍 *Regional Performance:* Central recorded the highest sales and profit.
-2. 💻 *Category Performance:* Technology led in sales and profit.
-3. 📅 *Yearly Trend:* Sales and profit increased consistently from 2011 to 2014.
-4. 👥 *Customer Segment:* Consumer generated the highest sales and profit.
-5. 🏷️ *Discount Analysis:* The 0–10% discount band recorded the highest sales and profit, while the 30–40% band recorded an overall loss.
-6. 🚚 *Shipping Analysis:* Standard Class generated the highest sales and profit.
-7. 🏆 *Customer Analysis:* Tom Ashbrook recorded the highest sales among the top 10 customers.
+## 🛠️ Skills & Tools
 
-## 🖥️ Dashboard Preview
+- *Microsoft Excel:* Formulas, PivotTables, Charts and Dashboards (learning and practicing)
+- *Power BI:* Data Visualization (foundational knowledge)
+- *SQL:* Academic knowledge
+- *Business Analysis:* Sales and Financial Analysis
 
-### 📊 Dashboard Overview
-![Dashboard Overview](Dashboard-Screenshots/01-dashboard-overview.png)
+## 📂 My Projects
 
-### 📑 Executive Summary
-![Executive Summary](Dashboard-Screenshots/02-executive-summary.png)
+### 1. Retail Sales & Profitability Analysis
+*Status:* In Progress
 
-### 🎛️ Interactive Dashboard
-![Dashboard Interactivity](Dashboard-Screenshots/03-dashboard-interactivity.png)
+- Tool: Microsoft Excel
+- Objective: Analyze retail sales, profitability and business performance.
+- Key focus: Data cleaning, PivotTables, KPI analysis and dashboard creation.
 
-## 🎯 Conclusion
-The analysis highlights key patterns in regional performance, product categories, customer segments and discount strategies. The interactive dashboard allows users to explore business performance through multiple filters and supports data-driven decision-making.
+More projects coming soon!
 
-## 📁 Project Structure
-- Dashboard-Screenshots/ – Dashboard visuals
-- Excel-Workbook/ – Final Excel workbook
-- Dataset/ – Dataset folder
+## 🎓 Education
 
-## 👩‍💻 About the Author
-**Aspiring Data Analyst | Marketing & Finance**
+- *MBA – Marketing & Finance* | RVR & JC, Acharya Nagarjuna University
+- *BSc* | Vidhyalaya Degree College, Krishna University
+
+## 📖 Currently Learning
+
+Data Analytics Program – Coding Ninjas
+
+---
+
+⭐ Thank you for visiting my portfolio!
