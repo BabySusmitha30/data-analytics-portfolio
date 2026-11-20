@@ -124,3 +124,5 @@ The analysis highlights key patterns in regional performance, product categories
 
 \*MBA Graduate | Marketing \& Finance | Aspiring Data Analyst\*
 
+
+
