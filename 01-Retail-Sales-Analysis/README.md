@@ -1,4 +1,4 @@
-\# 📊 Global Superstore | Sales \\\& Profitability Analysis
+\# 📊 Global Superstore | Sales \& Profitability Analysis
 
 
 
@@ -8,43 +8,37 @@
 
 \## 🎯 Project Overview
 
-
-
 An interactive retail sales and profitability analysis using Microsoft Excel to explore business performance, identify trends and uncover actionable insights.
 
 
 
 \## 🗂️ Dataset at a Glance
 
+\- 📌 \*Records:\* 51,290
 
+\- 📌 \*Columns:\* 22
 
-\* 📌 \*Records:\* 51,290
+\- 📌 \*Period:\* 2011–2014
 
-\* 📌 \*Columns:\* 22
-
-\* 📌 \*Period:\* 2011–2014
-
-\* 📌 \*Data:\* Orders, customers, products, sales, discounts and profits
-
-
-
-\## 🛠️ Tools \\\& Techniques
+\- 📌 \*Data:\* Orders, customers, products, sales, discounts and profits
 
 
 
-\* Microsoft Excel
+\## 🛠️ Tools \& Techniques
 
-\* Data Cleaning \\\& Formatting
+\- Microsoft Excel
 
-\* Excel Tables
+\- Data Cleaning \& Formatting
 
-\* PivotTables \\\& Data Model
+\- Excel Tables
 
-\* Distinct Count Calculations
+\- PivotTables \& Data Model
 
-\* Interactive Slicers
+\- Distinct Count Calculations
 
-\* Charts \\\& Dashboard Design
+\- Interactive Slicers
+
+\- Charts \& Dashboard Design
 
 
 
@@ -52,27 +46,25 @@ An interactive retail sales and profitability analysis using Microsoft Excel to 
 
 
 
-|Metric |Result|
+| Metric | Result |
 
-|-|-:|
+|---|---:|
 
-|💰 Total Sales|1,2642,501.91|
+| 💰 Total Sales | 12,642,501.91 |
 
-|📊 Total Profit|14,67,457.29|
+| 📊 Total Profit | 1,467,457.29 |
 
-|🛒 Total Orders|25,035|
+| 🛒 Total Orders | 25,035 |
 
-|📦 Quantity Sold|1,78,312|
+| 📦 Quantity Sold | 178,312 |
 
-|🏷️ Average Discount|14.29%|
+| 🏷️ Average Discount | 14.29% |
 
-|📈 Profit Margin|11.61%|
+| 📈 Profit Margin | 11.61% |
 
 
 
 \## 💡 Key Business Insights
-
-
 
 1\. 🌍 \*Regional Performance:\* Central recorded the highest sales and profit.
 
@@ -96,31 +88,23 @@ An interactive retail sales and profitability analysis using Microsoft Excel to 
 
 \### 📊 Dashboard Overview
 
-
-
-!\\\[Dashboard Overview](Dashboard-Screenshots/01-dashboard-overview.png)
+!\[Dashboard Overview](Dashboard-Screenshots/01-dashboard-overview.png)
 
 
 
 \### 📑 Executive Summary
 
-
-
-!\\\[Executive Summary](Dashboard-Screenshots/02-executive-summary.png)
+!\[Executive Summary](Dashboard-Screenshots/02-executive-summary.png)
 
 
 
 \### 🎛️ Interactive Dashboard
 
-
-
-!\\\[Dashboard Interactivity](Dashboard-Screenshots/03-dashboard-interactivity.png)
+!\[Dashboard Interactivity](Dashboard-Screenshots/03-dashboard-interactivity.png)
 
 
 
 \## 🎯 Conclusion
-
-
 
 The analysis highlights key patterns in regional performance, product categories, customer segments and discount strategies. The interactive dashboard allows users to explore business performance through multiple filters and supports data-driven decision-making.
 
@@ -128,23 +112,15 @@ The analysis highlights key patterns in regional performance, product categories
 
 \## 📁 Project Structure
 
+\- Dashboard-Screenshots/ – Dashboard visuals
 
+\- Excel-Workbook/ – Final Excel workbook
 
-\* Dashboard-Screenshots/ – Dashboard visuals
-
-\* Excel-Workbook/ – Final Excel workbook
-
-\* Dataset/ – Dataset folder
+\- Dataset/ – Dataset folder
 
 
 
 \## 👩‍💻 About the Author
 
-
-
-\*\*Aspiring Data Analyst | Marketing \\\& Finance\*\*
-
-
-
-
+\*MBA Graduate | Marketing \& Finance | Aspiring Data Analyst\*
 
