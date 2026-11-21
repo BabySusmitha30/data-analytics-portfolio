@@ -122,7 +122,7 @@ The analysis highlights key patterns in regional performance, product categories
 
 \## 👩‍💻 About the Author
 
-\*MBA Graduate | Marketing \& Finance | Aspiring Data Analyst\*
+\*\*Aspiring Data Analyst| Marketing \& Finance\*\*
 
 
 
